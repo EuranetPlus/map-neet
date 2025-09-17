@@ -1,13 +1,13 @@
 {
-  "heading": "Jaunieji NEET asmenys ES",
-  "subheading": "Perėjimas nuo išsilavinimo prie darbo tapo sudėtingesnis ir ne toks aiškus, todėl daugelis jaunų žmonių pasimetė pereinamajame etape.",
+  "heading": "Jauni NEET jaunuoliai ES",
+  "subheading": "Perėjimas iš švietimo į darbą tapo sudėtingesnis ir mažiau aiškus, todėl daugelis jaunų žmonių šiame procese pasimeta.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "15-29 metų amžiaus",
+  "tooltip1": "15–29 metų amžiaus",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Żgħażagħ NEETs fl-UE",
-  "subheading": "It-tranżizzjoni mill-edukazzjoni għax-xogħol saret aktar kumplessa u inqas ċara, u ħalliet ħafna żgħażagħ mitlufa fit-tranżizzjoni.",
-  "legend1": "Ebda data disponibbli",
-  "tooltip1": "ta’ 15-29 sena",
+  "subheading": "It-tranżizzjoni mill-edukazzjoni għax-xogħol saret aktar kumplessa u inqas ċara, u ħalliet lil ħafna żgħażagħ mitlufa fit-tranżizzjoni.",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltip1": "ta' bejn il-15 u d-29 sena",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Aċċessa għad-data",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

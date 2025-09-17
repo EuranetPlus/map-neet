@@ -1,13 +1,13 @@
 {
-  "heading": "Młodzi NEET w UE",
-  "subheading": "Przejście z edukacji do pracy stało się bardziej złożone i mniej jasne, przez co wielu młodych ludzi zagubiło się w tym okresie przejściowym.",
+  "heading": "Młodzi NEET-owie w UE",
+  "subheading": "Przejście z edukacji do pracy stało się bardziej skomplikowane i mniej jasne, przez co wielu młodych ludzi czuje się zagubionych w tym procesie.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "w wieku 15-29 lat",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

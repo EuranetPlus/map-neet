@@ -1,13 +1,13 @@
 {
   "heading": "Junge NEETs in der EU",
-  "subheading": "Der Übergang von der Ausbildung ins Berufsleben ist komplexer und weniger klar geworden, sodass viele junge Menschen im Übergang verloren sind.",
+  "subheading": "Der Übergang von der Ausbildung ins Berufsleben ist komplexer und unklarer geworden, sodass viele junge Menschen in dieser Übergangsphase verloren gehen.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "15-29 Jahre alt",
+  "tooltip1": "von 15-29 Jahren",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

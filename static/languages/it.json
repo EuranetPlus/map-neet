@@ -1,6 +1,6 @@
 {
-  "heading": "Giovani NEET nell’UE",
-  "subheading": "La transizione dall’istruzione al lavoro è diventata più complessa e meno chiara, lasciando molti giovani persi nella transizione.",
+  "heading": "I giovani NEET nell'UE",
+  "subheading": "Il passaggio dall'istruzione al lavoro è diventato più complesso e meno chiaro, lasciando molti giovani disorientati nella transizione.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "di età compresa tra 15 e 29 anni",
   "textSourceDescription": "Fonte",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=it",
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

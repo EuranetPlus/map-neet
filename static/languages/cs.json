@@ -1,13 +1,13 @@
 {
   "heading": "Mladí NEET v EU",
-  "subheading": "Přechod od vzdělávání k práci se stal složitějším a méně jasným, takže mnoho mladých lidí se v přechodu ztratilo.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "ve věku 15-29 let",
+  "subheading": "Přechod ze vzdělávání do práce se stal složitějším a méně jasným, což mnoho mladých lidí v tomto přechodu zanechalo ztracených.",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "ve věku 15–29 let",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

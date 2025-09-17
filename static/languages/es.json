@@ -1,13 +1,13 @@
 {
   "heading": "Jóvenes ninis en la UE",
   "subheading": "La transición de la educación al trabajo se ha vuelto más compleja y menos clara, dejando a muchos jóvenes perdidos en la transición.",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "de 15-29 años",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "de 15 a 29 años",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }

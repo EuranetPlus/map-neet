@@ -1,13 +1,13 @@
 {
-  "heading": "NEET-nuoret EU:ssa",
-  "subheading": "Siirtymisestä koulutuksesta työhön on tullut monimutkaisempi ja epäselvämpi, minkä vuoksi monet nuoret ovat eksyneet siirtymävaiheessa.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "15-29 vuotiaille",
+  "heading": "Nuoret NEET-nuoret EU:ssa",
+  "subheading": "Siirtyminen koulutuksesta työelämään on monimutkaistunut ja epäselvä, minkä vuoksi monet nuoret ovat eksyksissä siirtymävaiheessa.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "15–29-vuotiaille",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Unge NEET'ere i EU",
-  "subheading": "Overgangen fra uddannelse til arbejde er blevet mere kompleks og mindre klar, hvilket efterlader mange unge mennesker tabt i overgangen.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "på 15-29 år",
+  "heading": "Unge NEET'er i EU",
+  "subheading": "Overgangen fra uddannelse til arbejde er blevet mere kompleks og mindre klar, hvilket har efterladt mange unge mennesker faret vild i overgangen.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "i alderen 15-29 år",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

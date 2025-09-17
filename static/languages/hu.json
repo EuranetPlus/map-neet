@@ -1,13 +1,13 @@
 {
   "heading": "Fiatal NEET-fiatalok az EU-ban",
-  "subheading": "Az oktatásból a munkába való átmenet összetettebbé és kevésbé egyértelművé vált, így sok fiatal elveszett az átmenetben.",
-  "legend1": "Nincs elérhető adat",
+  "subheading": "Az oktatásból a munkába való átmenet összetettebbé és kevésbé egyértelművé vált, ami miatt sok fiatal elveszett az átmeneti szakaszban.",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "15-29 éves korig",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

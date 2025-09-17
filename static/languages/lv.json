@@ -1,13 +1,13 @@
 {
-  "heading": "NEET jaunieši ES",
-  "subheading": "Pāreja no izglītības uz darbu ir kļuvusi sarežģītāka un mazāk skaidra, atstājot daudzus jauniešus pārejas posmā.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "15-29 gadus veci",
+  "heading": "Jaunieši, kas nemācās, nemācās un neapgūst arodu (NEET), ES",
+  "subheading": "Pāreja no izglītības uz darbu ir kļuvusi sarežģītāka un neskaidrāka, atstājot daudzus jauniešus apmaldījušies pārejas procesā.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "15–29 gadus veci",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

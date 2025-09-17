@@ -1,13 +1,13 @@
 {
   "heading": "Tinerii NEET din UE",
   "subheading": "Tranziția de la educație la muncă a devenit mai complexă și mai puțin clară, lăsând mulți tineri pierduți în tranziție.",
-  "legend1": "Nici o informatie disponibila",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "de 15-29 de ani",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

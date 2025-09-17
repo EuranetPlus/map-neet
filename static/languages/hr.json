@@ -1,13 +1,13 @@
 {
   "heading": "Mladi NEET-ovi u EU",
-  "subheading": "Prijelaz iz obrazovanja u posao postao je složeniji i manje jasan, zbog čega su mnogi mladi ljudi izgubljeni u prijelazu.",
+  "subheading": "Prijelaz iz obrazovanja na posao postao je složeniji i manje jasan, ostavljajući mnoge mlade ljude izgubljenima u tranziciji.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od 15-29 godina",
+  "tooltip1": "od 15 do 29 godina",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

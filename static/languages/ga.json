@@ -1,13 +1,13 @@
 {
-  "heading": "NEETs óga san AE",
-  "subheading": "Tá an t-aistriú ó oideachas go dtí an obair níos casta agus níos soiléire anois, rud a fhágann go bhfuil go leor daoine óga caillte san aistriú.",
+  "heading": "NEETanna óga san AE",
+  "subheading": "Tá an t-aistriú ón oideachas go dtí an obair níos casta agus níos lú soiléire anois, rud a fhágann go leor daoine óga caillte san aistriú.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "15-29 bliain d’aois",
+  "tooltip1": "idir 15 agus 29 bliain d'aois",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=ga",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }
