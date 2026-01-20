@@ -1,12 +1,12 @@
 {
   "heading": "Noored NEET-noored ELis",
-  "subheading": "Üleminek haridusest tööle on muutunud keerulisemaks ja ebaselgemaks, jättes paljud noored üleminekuperioodil hätta.",
+  "subheading": "2024. aastal oli 2,8% 15–29-aastastest kodanikest ei tööta ega õpi.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "15–29-aastased",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Märkus",
-  "textNote": "",
+  "textNote": "Üleminek haridusest tööellu on muutunud keerulisemaks ja ebaselgemaks, jättes paljud noored üleminekuperioodil hätta. Iirimaa, Läti, Luksemburgi, Poola, Portugali ja Slovakkia andmed pärinevad 2022. aastast.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

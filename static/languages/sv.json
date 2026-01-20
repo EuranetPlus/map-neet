@@ -1,12 +1,12 @@
 {
   "heading": "Unga NEET:er i EU",
-  "subheading": "Övergången från utbildning till arbete har blivit mer komplex och otydlig, vilket har lämnat många unga människor vilse i övergången.",
+  "subheading": "År 2024 varken i arbete eller utbildning verksamma i 2,8 % av medborgarna i åldern 15–29 år.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "15–29 år gamla",
   "textSourceDescription": "Källa",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "Övergången från utbildning till arbete har blivit mer komplex och otydlig, vilket gör att många unga människor går vilse i övergången. Siffrorna för Irland, Lettland, Luxemburg, Polen, Portugal och Slovakien är från 2022.",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Klicka för mer information"

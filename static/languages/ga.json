@@ -1,12 +1,12 @@
 {
   "heading": "NEETanna óga san AE",
-  "subheading": "Tá an t-aistriú ón oideachas go dtí an obair níos casta agus níos lú soiléire anois, rud a fhágann go leor daoine óga caillte san aistriú.",
+  "subheading": "Sa bhliain 2024, níl 2.8% de shaoránaigh idir 15-29 bliain d'aois fostaithe ná in oideachas ná oiliúint.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "idir 15 agus 29 bliain d'aois",
   "textSourceDescription": "Foinse",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Nóta",
-  "textNote": "",
+  "textNote": "Tá an t-aistriú ón oideachas go dtí an obair níos casta agus níos lú soiléire anois, rud a fhágann go leor daoine óga caillte san aistriú. Is ón mbliain 2022 atá na figiúirí d'Éirinn, don Laitvia, do Lucsamburg, don Pholainn, don Phortaingéil agus don tSlóvaic.",
   "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"

@@ -1,12 +1,12 @@
 {
   "heading": "Fiatal NEET-fiatalok az EU-ban",
-  "subheading": "Az oktatásból a munkába való átmenet összetettebbé és kevésbé egyértelművé vált, ami miatt sok fiatal elveszett az átmeneti szakaszban.",
+  "subheading": "2024-ben a 15 és 29 év közötti állampolgárok 2,8%-a sem dolgozott, sem oktatásban és képzésben nem részesült.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "15-29 éves korig",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "",
+  "textNote": "Az oktatásból a munkába való átmenet összetettebbé és kevésbé egyértelművé vált, így sok fiatal elveszett az átmeneti szakaszban. Írország, Lettország, Luxemburg, Lengyelország, Portugália és Szlovákia adatai 2022-ből származnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

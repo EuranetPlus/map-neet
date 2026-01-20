@@ -1,12 +1,12 @@
 {
   "heading": "Młodzi NEET-owie w UE",
-  "subheading": "Przejście z edukacji do pracy stało się bardziej skomplikowane i mniej jasne, przez co wielu młodych ludzi czuje się zagubionych w tym procesie.",
+  "subheading": "W 2024 r. 2,8% obywateli w wieku 15–29 lat nie pracowało, nie uczyło się ani nie uczestniczyło w szkoleniach.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "w wieku 15-29 lat",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Notatka",
-  "textNote": "",
+  "textNote": "Przejście z edukacji do pracy stało się bardziej skomplikowane i mniej jasne, przez co wielu młodych ludzi czuje się zagubionych w tym procesie. Dane dla Irlandii, Łotwy, Luksemburga, Polski, Portugalii i Słowacji pochodzą z 2022 r.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

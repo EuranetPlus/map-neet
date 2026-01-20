@@ -1,13 +1,13 @@
 {
-  "heading": "Jonge NEET's in de EU",
-  "subheading": "De overgang van onderwijs naar werk is complexer en minder duidelijk geworden, waardoor veel jongeren in de problemen komen.",
+  "heading": "Jonge NEETs in de EU",
+  "subheading": "In 2024 heeft 2,8% van de burgers tussen 15 en 29 jaar geen baan en volgt ook geen onderwijs of opleiding.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van 15-29 jaar oud",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Opmerking",
-  "textNote": "",
+  "textNote": "De overgang van onderwijs naar werk is complexer en minder duidelijk geworden, waardoor veel jongeren de weg kwijtraken. De cijfers voor Ierland, Letland, Luxemburg, Polen, Portugal en Slowakije zijn afkomstig uit 2022.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Jaunieši, kas nemācās, nemācās un neapgūst arodu (NEET), ES",
-  "subheading": "Pāreja no izglītības uz darbu ir kļuvusi sarežģītāka un neskaidrāka, atstājot daudzus jauniešus apmaldījušies pārejas procesā.",
+  "subheading": "2024. gadā 2,8 % iedzīvotāju vecumā no 15 līdz 29 gadiem nebija ne nodarbināti, neizglītojās un neapguva arodu.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "15–29 gadus veci",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Pāreja no izglītības uz darbu ir kļuvusi sarežģītāka un neskaidrāka, atstājot daudzus jauniešus pārejas procesā apmaldījušies. Dati par Īriju, Latviju, Luksemburgu, Poliju, Portugāli un Slovākiju ir no 2022. gada.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

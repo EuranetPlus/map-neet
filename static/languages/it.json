@@ -1,12 +1,12 @@
 {
   "heading": "I giovani NEET nell'UE",
-  "subheading": "Il passaggio dall'istruzione al lavoro è diventato più complesso e meno chiaro, lasciando molti giovani disorientati nella transizione.",
+  "subheading": "Nel 2024 il 2,8% dei cittadini di età compresa tra 15 e 29 anni non avrà un impiego né seguirà corsi di istruzione e formazione.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "di età compresa tra 15 e 29 anni",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "La transizione dall'istruzione al lavoro è diventata più complessa e meno chiara, lasciando molti giovani disorientati nella transizione. I dati per Irlanda, Lettonia, Lussemburgo, Polonia, Portogallo e Slovacchia si riferiscono al 2022.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=it",
   "textCountryClick": "Clicca per maggiori informazioni"

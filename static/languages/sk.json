@@ -1,12 +1,12 @@
 {
   "heading": "Mladí NEET v EÚ",
-  "subheading": "Prechod zo vzdelávania do práce sa stal zložitejším a menej jasným, čo spôsobilo, že mnohí mladí ľudia sa v tomto procese stratili.",
+  "subheading": "V roku 2024 nebolo 2,8 % občanov vo veku 15 – 29 rokov zamestnaných, ani sa nevzdeláva ani neúčastní odbornej prípravy.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "vo veku 15 – 29 rokov",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Prechod zo vzdelávania do práce sa stal zložitejším a menej jasným, čo spôsobilo, že mnohí mladí ľudia sa v tomto prechode stratili. Údaje za Írsko, Lotyšsko, Luxembursko, Poľsko, Portugalsko a Slovensko sú z roku 2022.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"

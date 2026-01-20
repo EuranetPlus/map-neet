@@ -1,13 +1,13 @@
 {
   "heading": "Junge NEETs in der EU",
-  "subheading": "Der Übergang von der Ausbildung ins Berufsleben ist komplexer und unklarer geworden, sodass viele junge Menschen in dieser Übergangsphase verloren gehen.",
+  "subheading": "Im Jahr 2024 werden 2,8 % der Bürger im Alter von 15 bis 29 Jahren weder erwerbstätig sein noch sich in Ausbildung oder Weiterbildung befinden.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "von 15-29 Jahren",
+  "tooltip1": "im Alter von 15 bis 29 Jahren",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Notiz",
-  "textNote": "",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Der Übergang von der Ausbildung in den Beruf ist komplexer und undurchsichtiger geworden, sodass viele junge Menschen in dieser Übergangsphase orientierungslos zurückbleiben. Die Zahlen für Irland, Lettland, Luxemburg, Polen, Portugal und die Slowakei stammen aus dem Jahr 2022.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

@@ -1,12 +1,12 @@
 {
   "heading": "Nuoret NEET-nuoret EU:ssa",
-  "subheading": "Siirtyminen koulutuksesta työelämään on monimutkaistunut ja epäselvä, minkä vuoksi monet nuoret ovat eksyksissä siirtymävaiheessa.",
+  "subheading": "Vuonna 2024 2,8 % 15–29-vuotiaista kansalaisista ei ole työelämässä eikä koulutuksessa.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "15–29-vuotiaille",
   "textSourceDescription": "Lähde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Huomautus",
-  "textNote": "",
+  "textNote": "Siirtyminen koulutuksesta työelämään on monimutkaistunut ja epäselvämpi, minkä vuoksi monet nuoret ovat eksyksissä siirtymävaiheessa. Irlannin, Latvian, Luxemburgin, Puolan, Portugalin ja Slovakian luvut ovat vuodelta 2022.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"

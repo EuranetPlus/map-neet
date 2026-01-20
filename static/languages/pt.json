@@ -1,12 +1,12 @@
 {
   "heading": "Jovens NEETs na UE",
-  "subheading": "A transição da educação para o trabalho se tornou mais complexa e menos clara, deixando muitos jovens perdidos na transição.",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "de 15 a 29 anos",
+  "subheading": "Em 2024, 2,8% dos cidadãos com idades entre 15 e 29 anos não estão empregados nem estudando ou em formação profissional.",
+  "legend1": "Não há dados disponíveis.",
+  "tooltip1": "de 15 a 29 anos de idade",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Observação",
-  "textNote": "",
+  "textNote": "A transição da educação para o trabalho tornou-se mais complexa e menos clara, deixando muitos jovens perdidos nesse processo. Os dados para Irlanda, Letônia, Luxemburgo, Polônia, Portugal e Eslováquia são de 2022.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

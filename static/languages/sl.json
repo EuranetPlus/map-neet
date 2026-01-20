@@ -1,12 +1,12 @@
 {
   "heading": "Mladi NEET-i v EU",
-  "subheading": "Prehod iz izobraževanja v zaposlitev je postal bolj zapleten in manj jasen, zaradi česar se mnogi mladi v prehodu izgubijo.",
+  "subheading": "Leta 2024 2,8 % državljanov, starih od 15 do 29 let, ni bilo niti zaposlenih niti vključenih v izobraževanje ali usposabljanje.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "od 15 do 29 let",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Opomba",
-  "textNote": "",
+  "textNote": "Prehod iz izobraževanja v zaposlitev je postal bolj zapleten in manj jasen, zaradi česar se je veliko mladih v prehodu izgubilo. Podatki za Irsko, Latvijo, Luksemburg, Poljsko, Portugalsko in Slovaško so iz leta 2022.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

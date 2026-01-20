@@ -1,12 +1,12 @@
 {
   "heading": "Mladi NEET-ovi u EU",
-  "subheading": "Prijelaz iz obrazovanja na posao postao je složeniji i manje jasan, ostavljajući mnoge mlade ljude izgubljenima u tranziciji.",
+  "subheading": "U 2024. godini 2,8% građana u dobi od 15 do 29 godina nije ni zaposleno ni obrazovano ni osposobljavano.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "od 15 do 29 godina",
   "textSourceDescription": "Izvor",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025.)",
   "textNoteDescription": "Bilješka",
-  "textNote": "",
+  "textNote": "Prijelaz iz obrazovanja na posao postao je složeniji i manje jasan, zbog čega su mnogi mladi ljudi izgubljeni u tranziciji. Podaci za Irsku, Latviju, Luksemburg, Poljsku, Portugal i Slovačku su iz 2022. godine.",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

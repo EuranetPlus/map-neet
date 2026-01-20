@@ -1,12 +1,12 @@
 {
   "heading": "Jóvenes ninis en la UE",
-  "subheading": "La transición de la educación al trabajo se ha vuelto más compleja y menos clara, dejando a muchos jóvenes perdidos en la transición.",
+  "subheading": "En 2024, el 2,8% de los ciudadanos de entre 15 y 29 años no trabajan ni estudian ni reciben formación.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "de 15 a 29 años",
   "textSourceDescription": "Fuente",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "La transición de la educación al trabajo se ha vuelto más compleja y menos clara, dejando a muchos jóvenes perdidos en la transición. Las cifras de Irlanda, Letonia, Luxemburgo, Polonia, Portugal y Eslovaquia son de 2022.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"

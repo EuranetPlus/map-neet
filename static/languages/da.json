@@ -1,12 +1,12 @@
 {
   "heading": "Unge NEET'er i EU",
-  "subheading": "Overgangen fra uddannelse til arbejde er blevet mere kompleks og mindre klar, hvilket har efterladt mange unge mennesker faret vild i overgangen.",
+  "subheading": "I 2024 var 2,8 % af borgerne i alderen 15-29 hverken i beskæftigelse eller under uddannelse.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "i alderen 15-29 år",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Overgangen fra uddannelse til arbejde er blevet mere kompleks og mindre klar, hvilket har efterladt mange unge mennesker faret vild i overgangen. Tallene for Irland, Letland, Luxembourg, Polen, Portugal og Slovakiet er fra 2022.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Klik for mere information"
