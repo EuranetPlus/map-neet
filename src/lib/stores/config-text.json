@@ -1,12 +1,12 @@
 {
   "heading": "Young NEETs in the EU",
-  "subheading": "The transition from education to work has become more complex and less clear, leaving many young people lost in transition.",
+  "subheading": "In 2024 2.8% of citizens aged 15-29 are neither in employment nor in education and training.",
   "legend1": "No data available",
   "tooltip1": "of 15-29 years old",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2025)",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "The transition from education to work has become more complex and less clear, leaving many young people lost in transition.Figures for Ireland, Latvia, Luxembourg, Poland, Portugal and Slovakia are from 2022.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table?lang=en",
   "textCountryClick": "Click for more info"
